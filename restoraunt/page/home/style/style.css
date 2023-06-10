@@ -92,7 +92,7 @@ p {
 }
 
 .br1 {
-    background-image: url(restoraunt/page/home/img/pyshk.jpg);
+    background-image: url("img/pyshk.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
