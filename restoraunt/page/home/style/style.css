@@ -92,12 +92,12 @@ p {
 }
 
 .br1 {
-    background-image: url(/restoraunt/page/home/img/pyshk.jpg);
+    background-image: url(restoraunt/page/home/img/pyshk.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 .br2 {
-    background-image: url(..restoraunt/page/home/img/andre.jpg);
+    background-image: url(page/home/img/andre.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
