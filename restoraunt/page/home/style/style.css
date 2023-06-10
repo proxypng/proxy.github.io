@@ -92,7 +92,7 @@ p {
 }
 
 .br1 {
-    background-image: url(../img/pyshk.jpg");
+    background-image: url(../../home/img/pyshk.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -304,7 +304,7 @@ input[type=text], input[type=email], select, textarea {
     padding: 40px 36px;
     border-radius: 16px;
     box-sizing: border-box;
-    background-image: url(restoraunt/page/home/img/cat.jpg);
+    background-image: url(../../home/img/cat.jpg);
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
